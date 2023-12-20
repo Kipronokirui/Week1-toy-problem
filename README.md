@@ -1,4 +1,4 @@
-## My Portfolio Project
+## Week 1 Toy Challenges
 ### Name: Victor Kiprono Kirui
 
 ## How to Get the project.
